@@ -1,1 +1,2 @@
 # US-HealthCare-Readmissions-And-Mortality-DashBoard
+US Healthcare Readmissions and Mortality Dashboard analyzing hospital readmission and mortality trends across healthcare facilities. The dashboard provides interactive insights into patient outcomes, hospital performance, and quality-of-care metrics, enabling data-driven decisions to improve healthcare delivery and reduce preventable readmissions.
