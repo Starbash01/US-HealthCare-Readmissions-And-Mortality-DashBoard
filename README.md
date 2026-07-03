@@ -14,3 +14,31 @@ If you find this project valuable, consider giving it a ⭐ and sharing your fee
 4. Which conditions contribute most to readmissions?
 5. Which patient groups have higher mortality rates?
 6. Which areas require immediate clinical intervention?
+
+### Process Followed to Develop the Dashboard
+* Defined project objectives and identified key healthcare performance indicators.
+* Collected healthcare data on hospital readmissions, mortality, patient demographics, and hospital performance.
+* Cleaned and prepared the data by removing duplicates, handling missing values, and correcting data types.
+* Used Power Query to transform and organize the dataset.
+* Designed interactive visualizations using:
+  
+   * KPI cards
+   * Stacked Column charts
+   * Scatter chart
+   * Table
+
+  *Added Interactivity*
+
+   * Implemented slicers and filters.
+   * Enabled drill-through and cross-filtering features.
+
+  *Optimize Dashboard Layout*
+
+   * Organized visuals for clarity and user experience.
+
+### Outcome
+
+The dashboard provides healthcare professionals and decision-makers with a comprehensive view of hospital readmissions and mortality trends. It enables users to monitor key performance indicators, identify high-risk hospitals and patient groups, evaluate quality of care, and implement evidence-based strategies to improve patient outcomes while reducing avoidable readmissions and mortality.
+
+## DashBoard Interaction
+- <a href="https://github.com/Starbash01/US-HealthCare-Readmissions-And-Mortality-DashBoard/blob/main/US%20Healthcare%20Readmissions%20and%20Mortality.pdf"> View DashBoard </a>
