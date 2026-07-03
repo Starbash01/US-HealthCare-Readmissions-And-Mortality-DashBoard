@@ -42,3 +42,7 @@ The dashboard provides healthcare professionals and decision-makers with a compr
 
 ## DashBoard Interaction
 - <a href="https://github.com/Starbash01/US-HealthCare-Readmissions-And-Mortality-DashBoard/blob/main/US%20Healthcare%20Readmissions%20and%20Mortality.pdf"> View DashBoard </a>
+
+## DashBoard
+
+<img width="1493" height="846" alt="Screenshot 2026-07-03 110050" src="https://github.com/user-attachments/assets/d0641dea-74fb-4771-9539-935deb949036" />
